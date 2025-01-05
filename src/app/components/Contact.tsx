@@ -45,7 +45,7 @@ export function Contact() {
           <div className="flex flex-col md:flex-row">
             <div className="md:w-1/2 bg-blue-600 p-8 text-white">
               <h3 className="text-2xl font-bold mb-4">Contact Information</h3>
-              <p className="mb-4">Feel free to reach out! I'd love to hear from you.</p>
+              <p className="mb-4">Feel free to reach out! I&apos;d love to hear from you.</p>
               <div className="flex items-center mb-4">
                 <Send className="mr-2 h-5 w-5" />
                 <span>malliknarsina.folio@gmail.com</span>
