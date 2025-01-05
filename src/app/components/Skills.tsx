@@ -1,4 +1,4 @@
-import { Code, Database, Server, PenTool, Globe, Cpu, Box, Coffee, Terminal } from 'lucide-react'
+import { Code, Database, Server, PenTool, Globe, Box, Coffee, Terminal } from 'lucide-react'
 
 const skills = [
   { name: 'HTML', icon: Globe, category: 'Frontend' },
