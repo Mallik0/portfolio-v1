@@ -50,7 +50,7 @@ export function Header() {
 
   const handleDownloadResume = () => {
     
-    window.open('/resume.pdf', '_blank')
+    window.open('/thisisnotaresume.pdf', '_blank')
   }
 
   return (
